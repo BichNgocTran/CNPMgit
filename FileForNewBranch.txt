@@ -1,3 +1,7 @@
 đây là nội dung của file từ branch add-new-file
 thêm những nội dung mới ở đây:
 1. 
+2.
+3.
+
+-> file đã hoàn tất merge vào master di
